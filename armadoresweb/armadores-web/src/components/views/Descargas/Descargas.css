@@ -1,0 +1,11 @@
+.bg-colorbar{
+  background-color: #5CBDEB!important;
+}
+
+.rdrDefinedRangesWrapper{
+  display: none !important;
+}
+
+#pruebaFocus { 
+  background: #000 !important;
+}
